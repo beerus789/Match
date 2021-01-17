@@ -69,6 +69,8 @@ This is a balanced dataset containing set of player with venue, wicket taken, To
 # Drop a :star: if you like this Repository.. :smile: 
 	
  
-[![enjoy][enjoy-image]][linkedin-url] &nbsp;&nbsp;&nbsp;&nbsp; [![status][issue-image]][issue-url]
+[![enjoy][enjoy-image]] &nbsp;&nbsp;&nbsp;&nbsp; [![status][issue-image]][issue-url]
 
 [enjoy-image]: https://img.shields.io/badge/Enjoy%20this%3F-Say%20Thanks!-yellow
+
+:point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Satyam%20-Prakash-Srivastava-orange?style=for-the-badge&logo=Coder)](https://shantanug.000webhostapp.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Satya%20-Das-orange?style=for-the-badge&logo=Coder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:point_left::point_left::point_left:
