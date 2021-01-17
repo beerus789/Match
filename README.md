@@ -75,4 +75,4 @@ This is a balanced dataset containing set of player with venue, wicket taken, To
 
 :point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Satyam%20-Srivastava-orange?style=for-the-badge&logo=Coder)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Satya%20-Das-orange?style=for-the-badge&logo=Coder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:point_left::point_left::point_left:
 
-:point_left::point_left::point_left: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Om%20-Singh-orange?style=for-the-badge&logo=Coder)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!
+:point_right::point_righ::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Om%20-Singh-orange?style=for-the-badge&logo=Coder)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!
