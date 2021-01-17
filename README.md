@@ -48,7 +48,7 @@ Our project is to predict score means after certain level what might be the scor
 	* Install all required Libraries given in <font color="red">requirement.txt</font> by using command `pip install -r requirement.txt`
 	 
 > #### Required Libraries--
-* ![](https://img.shields.io/badge/TensorFlow--GPU-v2.4.0-blue) &nbsp;   &nbsp;[TensorFlow-GPU](https://pypi.org/project/tensorflow-gpu/)
+
 * ![](https://img.shields.io/badge/python-v3.7-blue) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  [Python](https://www.python.org/downloads/)
 *  ![](https://img.shields.io/badge/SciKit%20Learn-v0.24.0-blue) &nbsp; &nbsp; &nbsp;&nbsp; [Scikit Learn](https://pypi.org/project/scikit-learn/)
 * ![](https://img.shields.io/badge/Open%20CV-v4.4.0.46-blue)    &nbsp;   &nbsp; &nbsp; &nbsp; [Computer Vision](https://pypi.org/project/opencv-python/)
